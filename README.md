@@ -8,5 +8,6 @@ my name is: Beatriz Brandt👯
 
 ● Estou me desenvolvendo na linguagem JavaScript.
 
-● Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
+● Utilizo esse espaço para minha organização.
 
+![](link)https://tenor.com/pt-BR/view/whatever-you-say-gif-26555309
